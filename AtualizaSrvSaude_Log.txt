@@ -1,0 +1,4 @@
+Caminho Raiz: D:\Py\AtualizarSvrConsorcio
+!!!!Atualização Concluida!!!!
+SrvSaude.exe copiado para D:\Py\AtualizarSvrConsorcio\SrvConsorcio
+SrvSaude.exe copiado para D:\Py\AtualizarSvrConsorcio\SrvConsorcio
